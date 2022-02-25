@@ -1,4 +1,4 @@
-# Student-Grade-Calculation
+# PatikaDev-Student Grade Calculation
 Student Grade Calculation. Sample application for usage of classes and objects. 
 
 PatikaDev-Öğrenci Not Sistemi
